@@ -1,4 +1,13 @@
-## Hi there 👋
+## ABOUT ME
+
+🌟 Front-End Web Developer | Autodidatta | Principiante in Costante Crescita
+
+- 👨‍💻 Attualmente migliorando le mie competenze in HTML, CSS, e JavaScript
+- 🚀 Progetti recenti: Calcolatrice Web, Libreria di Libri
+- 🎯 Obiettivo: Diventare uno sviluppatore front-end esperto e creare interfacce utente eccezionali
+- 📚 Sempre alla ricerca di nuove opportunità di apprendimento e collaborazione
+- 🔗 [LinkedIn](https://www.linkedin.com/in/gianfranco-miguel-mendoza-gonzales-59b526171) | [Email](mailto:mendozagianfranco08@gmail.com)
+
 
 <!--
 **ElkCloner08/ElkCloner08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
